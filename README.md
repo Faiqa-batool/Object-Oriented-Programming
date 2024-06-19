@@ -8,3 +8,5 @@ This file contains the better understanding of how a method can call other metho
 
 ### 3. Passing objects as arguments:
 This file contains how to pass objects as arguments of a function.
+
+### 4. Arrays in classes:
