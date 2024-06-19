@@ -10,3 +10,4 @@ This file contains the better understanding of how a method can call other metho
 This file contains how to pass objects as arguments of a function.
 
 ### 4. Arrays in classes:
+How arrays can be used inside class.
