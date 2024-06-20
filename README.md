@@ -11,3 +11,5 @@ This file contains how to pass objects as arguments of a function.
 
 ### 4. Arrays in classes:
 How arrays can be used inside class.
+
+### 5. Array of objects:
