@@ -15,4 +15,4 @@ How arrays can be used inside class.
 ### 5. Array of objects:
 It has the implementation of how an array of objects is used instead of multiple sigle objects.
 
-### 6. Static Data Members and Methods
+
