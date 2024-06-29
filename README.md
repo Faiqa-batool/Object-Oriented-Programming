@@ -16,3 +16,4 @@ How arrays can be used inside class.
 It has the implementation of how an array of objects is used instead of multiple sigle objects.
 
 ### 6. Static Data Members and Methods
+It has the implementation of how static data members declared and used and how static methods are created and used.
